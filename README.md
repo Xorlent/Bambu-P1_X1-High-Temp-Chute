@@ -16,7 +16,7 @@ Some materials are notoriously sensitive to chamber temperature variations or re
   - Supports are not needed for the block plate or receptacle closeout panel.  Print the block plate with the flat surface on the build plate.
 
 ## Using
-- Install the closeour panel into the open face of the receptacle.  The parts should friction fit with no need for glue.
+- Install the closeout panel into the open face of the receptacle.  The parts should friction fit with no need for glue.
 - Remove the two screws holding the back cover of the printer to the waste chute.
 - Retrieve two 8MM long screws from the spare scraper baggie in the Bambu accessories box.
 - Install the chute using the two 8mm screws being very careful not to overtighten.
