@@ -4,11 +4,19 @@ Waste chute for Bambu Lab P1/X1 printers with block plate for Nylon, PC, ASA
 ## Background
 Some materials are notoriously sensitive to chamber temperature variations or require elevated chamber temperature for proper bed adhesion and to control warping.  This chute cover helps by reducing air drafts entering the chamber via the waste chute.
 > [!NOTE]
-> Bambu Labs advises against installing anything covering the waste chute, as it can cause issues with waste purge and possibly lead to nozzle clogs.  More info [here](https://wiki.bambulab.com/en/general/bambu-mods-to-avoid)
+> Bambu Labs advises against installing anything covering the waste chute, as it can cause issues with waste purge and possibly lead to nozzle clogs.  More info [here](https://wiki.bambulab.com/en/general/bambu-mods-to-avoid).
 
 ## Printing
+- PETG seems to be a good material choice for this print
+- About 5 oz. of filament
+- 0.20mm Standard profile
+- Supports guidance:
+  - Split the assembly to individual objects.  Receptacle, turn on supports (on build plate only).  Print with tabs/mating flange facing up and off the bed.
+  - Chute, turn on supports (on build plate only).  Print with screw flanges facing up and off the bed.  < 44 degree threshold angle will minimize support waste.
+  - Supports are not needed for the block plate or receptacle closeout panel.
 
 ## Using
+- Install the closeour panel into the open face of the receptacle.  The parts should friction fit with no need for glue.
 - Remove the two screws holding the back cover of the printer to the waste chute.
 - Retrieve two 8MM long screws from the spare scraper baggie in the Bambu accessories box.
 - Install the chute using the two 8mm screws being very careful not to overtighten.
