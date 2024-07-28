@@ -1,6 +1,6 @@
 # Bambu-P1_X1-High-Temp-Chute
 Poop chute for Bambu Lab P1/X1 printers with block plate for Nylon, PC, ASA
-
+![Bambu high temp chute rendering](https://github.com/Xorlent/Bambu-P1_X1-High-Temp-Chute/blob/main/images/Bambu-High-Temp-Chute.jpg)
 ## Background
 
 ## Printing
