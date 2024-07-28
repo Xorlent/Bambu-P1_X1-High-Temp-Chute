@@ -17,7 +17,7 @@ Some materials are notoriously sensitive to chamber temperature variations or re
 
 ## Using
 > [!NOTE]
-> If your printer in installed on isolation feet or otherwise elevated from the countertop, add feet to the receptacle to match or the waste chute opening will be too small.
+> If your printer is installed on isolation feet or otherwise elevated from the countertop, add feet to the receptacle to match or the waste chute opening will be too small for proper operation.
 - Install the closeout panel into the open face of the receptacle.  The parts should friction fit with no need for glue.
 - Remove the two screws holding the back cover of the printer to the waste chute.
 - Retrieve two 8MM long screws from the spare scraper baggie in the Bambu accessories box.
