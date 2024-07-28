@@ -27,3 +27,6 @@ Some materials are notoriously sensitive to chamber temperature variations or re
   - Start with the bottom of the receptacle at a 45 degree angle from the printer, insert, and move the receptacle to an upright position.
   - ![Installing receptacle](https://github.com/Xorlent/Bambu-P1_X1-High-Temp-Chute/blob/main/images/Installing-Receptacle.jpg)
 - When printing temperature-sensitive materials, remove the receptacle and print with the cover door closed.
+
+## Editing the model
+- [Link to OnShape Model](https://cad.onshape.com/documents/196c493a1f61e255247c00a2/w/f687690cef2aeb92b48cf8c6/e/a22792875da287b7d38db7e1?renderMode=0&uiState=66a6b93436c3ff7c40ed0186)
