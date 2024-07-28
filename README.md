@@ -11,8 +11,8 @@ Some materials are notoriously sensitive to chamber temperature variations or re
 - About 5 oz. of filament
 - 0.20mm Standard profile
 - Supports guidance:
-  - Split the assembly to individual objects.  Receptacle: Turn on supports (on build plate only).  Print with tabs/mating flange facing up and off the bed.
-  - Chute, turn on supports (on build plate only).  Print with screw flanges facing up and off the bed.  < 44 degree threshold angle will minimize support waste.
+  - Split the Receptacle.step assembly to individual objects.  Receptacle: Turn on supports (on build plate only).  Print with tabs/mating flange facing up and off the bed.
+  - Chute: Turn on supports (on build plate only).  Print with screw flanges facing up and off the bed.  < 44 degree threshold angle will minimize support waste.
   - Supports are not needed for the block plate or receptacle closeout panel.  Print the block plate with the flat surface on the build plate.
 
 ## Using
