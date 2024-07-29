@@ -18,11 +18,11 @@ Some materials are notoriously sensitive to chamber temperature variations or re
 ## Using
 > [!NOTE]
 > If your printer is installed on isolation feet or otherwise elevated from the countertop, add feet to the receptacle to match or the waste chute opening will be too small for proper operation.
-- Install the closeout panel into the open face of the receptacle.  The parts should friction fit with no need for glue.
+- Install the closeout panel into the open face of the receptacle.  The parts should friction fit securely with no need for glue.
 - Remove the two screws holding the back cover of the printer to the waste chute.
-- Retrieve two 8MM long screws from the spare scraper baggie in the Bambu accessories box.
-- Install the chute using the two 8mm screws being very careful not to overtighten.
-- Carefully slide the cover door over the end of the chute.
+- Retrieve two 8mm long screws from the spare scraper baggie in the Bambu accessories box.
+- Install the chute using the two 8mm screws, being very careful not to overtighten.
+- Gently slide the cover door over the end of the chute.
 - When printing most materials, you can snap the receptacle into the two receiving slits in the cover door.
   - Start with the bottom of the receptacle at a 45 degree angle from the printer, insert, and move the receptacle to an upright position.
   - ![Installing receptacle](https://github.com/Xorlent/Bambu-P1_X1-High-Temp-Chute/blob/main/images/Installing-Receptacle.jpg)
